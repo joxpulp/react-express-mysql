@@ -1,4 +1,6 @@
 # chat-app
-[![Netlify Status](https://api.netlify.com/api/v1/badges/4a272e57-2879-4281-b446-3dcb58353a90/deploy-status)](https://app.netlify.com/sites/chat-sockeio/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f326f627-2275-49b5-b709-c4af606b929c/deploy-status)](https://app.netlify.com/sites/chat-api-mysql/deploys)
 
-front end for the chat server with socket.io
+Live demo: https://chat-api-mysql.netlify.app
+
+chat server front end
